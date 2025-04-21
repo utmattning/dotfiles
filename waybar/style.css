@@ -11,12 +11,11 @@ window#waybar {
 
 #disk,
 #memory,
-#cpu,
 #battery,
 #workspaces,
 #language,
+#bluetooth,
 #pulseaudio,
-#network,
 #clock {
   padding: 5px 15px;
   background-color: rgba(225, 225, 225, 0.8);
