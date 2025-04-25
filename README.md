@@ -1,3 +1,7 @@
+🌟 My regular and minimalist Desktop 
+
+
+
 • WM: Hyprland [🪟]
 
 • Bar: Waybar [🎲]
