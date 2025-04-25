@@ -17,4 +17,4 @@
 
 
 <h1>Screenshots</h1>
-![Image](https://github.com/user-attachments/assets/1ecf5056-b001-4fa6-bd2b-560c6194a4af)
+https://github.com/user-attachments/assets/1ecf5056-b001-4fa6-bd2b-560c6194a4af
