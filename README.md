@@ -1,4 +1,4 @@
-<h1>_🌟 My regular and minimalist Desktop_</h1>
+<h1>🌟 My regular and minimalist Desktop</h1>
 
 
 
