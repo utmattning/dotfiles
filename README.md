@@ -17,5 +17,5 @@
 
 
  <h1>Example</h1>
- ![rice1](https://github.com/user-attachments/assets/cb445f80-d942-48dc-b9bb-4fe5af8cdb75)
+ ![Image](https://github.com/user-attachments/assets/8c6b8c0b-6ad9-48f8-923b-27b85d316a08)
  
