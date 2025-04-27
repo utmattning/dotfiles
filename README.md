@@ -12,7 +12,7 @@
 
 • Font: JetBrains Mono Font [🔈]
 
-• Theme: Graphite-dark [🧢]
+• Theme: Graphite-dark [👀]
 
 
 
